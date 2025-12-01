@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "少女時代",
+  "base_artist": "原　由子",
+  "createdAt": "2025-12-01T18:39:23.036258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女時代",
+      "artist": "原由子",
+      "has_synced": false,
+      "path": "select/01_少女時代_原由子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少女時代",
+      "artist": "Yuko Hara",
+      "has_synced": false,
+      "path": "select/02_少女時代_Yuko_Hara.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女時代",
+      "artist": "Hara, Yuko",
+      "has_synced": false,
+      "path": "select/03_少女時代_Hara,_Yuko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女時代",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_01_少女時代_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "少女時代",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_02_少女時代_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "少女時代",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_03_少女時代_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "少女時代",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_04_少女時代_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "少女時代",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_05_少女時代_原_由子.txt"
+    }
+  ]
+}
